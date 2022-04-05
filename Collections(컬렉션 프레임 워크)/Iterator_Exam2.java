@@ -29,7 +29,7 @@ public class Iterator_Exam2 {
 		 */
 		
 		
-		// 리스트에 들어있는 값에 각각 '+' 붙이기
+		// 리스트에 들어있는 값에 각각 '+' 붙이기(수정)
 		ListIterator<String> listIterator = list.listIterator();
 		while(listIterator.hasNext()) {
 			Object element = listIterator.next();
