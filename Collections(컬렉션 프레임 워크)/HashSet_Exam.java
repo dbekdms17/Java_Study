@@ -21,7 +21,6 @@ public class HashSet_Exam {
 		num.add(5);
 		num.add(5);
 		
-		
 		System.out.println(colors);  // [Red, White, Black, Green] ← 순서가 없다.
 		// 순서가 없기 때문에 특정 위치에 값을 추가하거나 할 수 없다.
 		System.out.println("===========");
