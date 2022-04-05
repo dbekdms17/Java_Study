@@ -50,7 +50,7 @@ public class IteratorExam {
 		}
 		System.out.println("====================");
 		
-		// for-each문을 사용한 경우
+		// for-each문을 사용한 경우(보통 이걸 사용)
 		for(String handphone : phone) {
 			System.out.println("phone : " + handphone);
 		}
