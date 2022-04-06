@@ -83,6 +83,7 @@ public class HashSet_Exam {
 		// 값 존재 유무 확인
 		// HashSet은 컬렉션 내에 값이 존재하는지 여부를 확인하는데 최적화된 자료 구조입니다.
 		// contains() 메소드를 호출해서 값이 존재하는지 여부를 빠르게 확인할 수 있습니다.
+		
 		System.out.println(colors.contains("Green"));   // true
 		System.out.println(colors.contains("Red"));   	// false
 		
