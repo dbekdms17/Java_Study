@@ -20,7 +20,7 @@ public class Test02{
 		math = sc.nextInt();
 
 		total = kor + eng + math;
-		avg = (kor + eng + math)/3;
+		avg = total/3;
 
 
 		System.out.println("*** 성적 처리 결과 ***");
