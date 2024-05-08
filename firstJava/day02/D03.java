@@ -16,7 +16,11 @@ public class D02CancerTest{
 		System.out.print("출생연도를 입력하세요 ==> "); 
 		ageYear = sc.nextInt();
 		age = thisYear - ageYear; 
-		if(age >= 40) {
+		boolean flag = false;
+		flag = age > 40;
+
+
+		if(flag) {
 			result = "무료 암검진 대상자 입니다.";
 		}
 
