@@ -8,9 +8,7 @@ class Ex22 {
 		System.out.println("입력: ");
 		sell = sc.nextInt();
 
-		// 가격
 		int price = 100;
-		// 할인율
 		int discount = (sell * price) /10;
 
 		if(sell >= 10) {

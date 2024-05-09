@@ -12,7 +12,7 @@ class Ex02
 		System.out.println("세로 길이 : ");
 		b = sc.nextInt();
 
-		result = (double)a * b;
+		result = (double)a * b /2;
 		System.out.printf("삼각형의 면적은 %.2f다.", result);
 	}
 }
