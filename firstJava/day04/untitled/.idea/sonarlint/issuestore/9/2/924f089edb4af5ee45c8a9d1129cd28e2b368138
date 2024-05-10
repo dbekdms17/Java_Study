@@ -1,0 +1,23 @@
+
+ 	java:S135	"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8±–“şõ1J$8752b537-d4b6-460a-ad0a-4caf4062a451
+e
+java:S2189!""Add an end condition to this loop.(´ÿÕ™8Ä©¹şõ1J$c29a1b60-42e8-429a-83af-8fb0d5080993
+i
+java:S1659"!Declare "num" on a separate line.(Ø§éûÿÿÿÿ8ä¡’şõ1J$884f6a64-15bd-4cd5-962a-df644f62f2de
+p
+java:S1481"(Remove this unused "num" local variable.(Ø§éûÿÿÿÿ8ä¡’şõ1J$4ce28583-7a96-4ae5-ad4e-571d21e0f2cd
+}
+java:S1119";Refactor the code to remove this label and the need for it.(àÏÅ)8ô¡’şõ1J$51e61681-fb68-4c08-b76f-0be260b9f7c5
+[
+java:S1065"Remove this unused label.(àÏÅ)8ô¡’şõ1J$b61867c6-5363-43a7-8371-16830afcfb37
+r	java:S106
+"+Replace this use of System.out by a logger.(·ÆÚçúÿÿÿÿ8ô¡’şõ1J$fb5e1729-2a9b-42e3-9cf4-d8d94cebc7b7
+l	java:S106"+Replace this use of System.out by a logger.(Šª•`8ô¡’şõ1J$0aabf18d-6c16-476f-ae95-4be2b6dbad39
+r	java:S106"+Replace this use of System.out by a logger.(¿Œ¥¶ıÿÿÿÿ8ô¡’şõ1J$2d492b37-f657-4a8b-a5a8-98881eff28a1
+r	java:S106"+Replace this use of System.out by a logger.(¨åéĞûÿÿÿÿ8ƒ¢’şõ1J$845fb710-1911-4810-8df5-e772afd00c47
+m	java:S106"+Replace this use of System.out by a logger.(“é²Ó8ƒ¢’şõ1J$f34a3397-d1b6-4789-ba8e-7c3721608197
+r	java:S106"+Replace this use of System.out by a logger.(¨´Òøÿÿÿÿ8—“şõ1J$823983cc-d5df-4928-972f-f65b3793a901
+r	java:S106"+Replace this use of System.out by a logger.(×¬şÿÿÿÿ8È’”şõ1J$817794cb-e208-47a6-ba15-212a7c12f76f
+l	java:S106"+Replace this use of System.out by a logger.(«“¡18µŠ¸şõ1J$8e68b3c2-dbe9-41ab-a61b-34600b56f07e
+m	java:S106"+Replace this use of System.out by a logger.(ÙÏÒ§8µŠ¸şõ1J$a4f629fd-e465-40cd-9602-40c90799126a
+k	java:S108!")Either remove or fill this block of code.(´ÿÕ™8ä©¹şõ1J$1b8c0e58-fe01-4b3f-9f4e-4c3fe0600754
